@@ -1,0 +1,30 @@
+{
+	"garage": [
+	{
+		"type":"car",
+		"brand": "KIA",
+		"model": "Cerato",
+		"color": "blue",
+		"lenght":5000,
+		"wigth":1800,
+		"height":1800,
+		"drivers": [
+		{
+			"first_name": "Tester",
+			"last_name": "Smith",
+			"licence_id": "AC 0000"
+			
+		},
+		
+		]
+	
+		
+	},
+	{
+			"type": "bike",
+			"brand": "Suzuki"
+		}
+]
+	
+	
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<garage>
+	   <object type="car" color="blue">
+	        <brand>KIA<brand>
+			<model>Cerato<model>
+			<leght>5000<leght>
+			<wigth>1800<wigth>
+			<height>1880<height>
+			<drivers>
+			<driver firstName="Test" lastName="Smith" licenceId="AC 0000" />
+			<driver firstName="Test2" lastName="Smith2" licenceId="AC 0000" />
+			</drivers>
+		</object>
+		<object type="bike" color="black">
+		</object>
+	</garage>
+	
